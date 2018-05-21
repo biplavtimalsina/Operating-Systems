@@ -1,0 +1,32 @@
+0.001752 - Simulator program starting
+0.001792 - OS: preparing process 1
+0.001798 - Process 1: start Processsing action
+0.003124 - Process 1: end Processsing action
+0.003134 - Process 1: allocating memory
+0.003417 - Process 1: memory allocated at 0X3d07f5f
+0.003426 - Process 1: start Monitor output
+0.004074 - Process 1: end Monitor output
+0.004117 - Process 1: start hard drive Input
+0.008914 - Process 1: end hard drive Input
+0.008921 - Process 1: start projector output
+3.99136 - Process 1: end projector output
+3.99138 - Process 1: start Processsing action
+3.99164 - Process 1: end Processsing action
+3.99164 - Process 1: start projector output
+4.82185 - Process 1: end projector output
+4.82187 - Process 1: start memory blocking
+4.82213 - Process 1: end memory blocking
+4.82213 - Process 1: start keyboard Input
+4.92833 - Process 1: end keyboard Input
+4.92834 - Process 1: start memory blocking
+4.9286 - Process 1: end memory blocking
+4.9286 - Process 1: start Processsing action
+4.92885 - Process 1: end Processsing action
+4.92886 - Process 1: start Processsing action
+4.92912 - Process 1: end Processsing action
+4.92912 - Process 1: start hard drive output
+4.93412 - Process 1: end hard drive output
+4.93413 - Process 1: start Processsing action
+4.93438 - Process 1: end Processsing action
+4.93439 - OS: removing process 1
+
