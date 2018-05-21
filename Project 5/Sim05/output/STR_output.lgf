@@ -1,0 +1,187 @@
+0.00502 - OS: preparing process 2
+0.005081 - Process 2: start hard drive output on HD
+0.909329 - Process 2: end hard drive output
+0.90936 - OS: removing process 2
+0.911081 - OS: preparing process 2
+0.91109 - Process 2: start hard drive output on HD
+All processes loaded
+1.81317 - Process 2: end hard drive output
+1.81319 - OS: removing process 2
+1.81321 - OS: preparing process 5
+1.81322 - Process 5: start hard drive output on HD
+2.71715 - Process 5: end hard drive output
+2.71717 - OS: removing process 5
+2.7172 - OS: preparing process 8
+2.7172 - Process 8: start hard drive output on HD
+3.62111 - Process 8: end hard drive output
+3.62113 - OS: removing process 8
+3.62118 - OS: preparing process 11
+3.62118 - Process 11: start hard drive output on HD
+4.52485 - Process 11: end hard drive output
+4.52487 - OS: removing process 11
+4.5249 - OS: preparing process 14
+4.5249 - Process 14: start hard drive output on HD
+5.42882 - Process 14: end hard drive output
+5.42884 - OS: removing process 14
+5.42887 - OS: preparing process 17
+5.42888 - Process 17: start hard drive output on HD
+6.33279 - Process 17: end hard drive output
+6.33281 - OS: removing process 17
+6.33284 - OS: preparing process 20
+6.33284 - Process 20: start hard drive output on HD
+7.23676 - Process 20: end hard drive output
+7.23678 - OS: removing process 20
+7.23681 - OS: preparing process 23
+7.23681 - Process 23: start hard drive output on HD
+8.14072 - Process 23: end hard drive output
+8.14074 - OS: removing process 23
+8.14077 - OS: preparing process 26
+8.14077 - Process 26: start hard drive output on HD
+9.04462 - Process 26: end hard drive output
+9.04464 - OS: removing process 26
+9.04467 - OS: preparing process 7
+9.04468 - Process 7: start Processsing action
+9.10076 - Process 7: end Processsing action
+9.10077 - Process 7: allocating memory
+9.15588 - Process 7: memory allocated at 0X00000000
+9.15589 - OS: removing process 7
+9.15592 - OS: preparing process 16
+9.15592 - Process 16: start Processsing action
+9.17596 - Process 16: end Processsing action
+9.17597 - Process 16: allocating memory
+9.23006 - Process 16: memory allocated at 0X00000080
+9.23008 - OS: removing process 16
+9.2301 - OS: preparing process 4
+9.2301 - Process 4: start Processsing action
+9.25013 - Process 4: end Processsing action
+9.25014 - Process 4: allocating memory
+9.30524 - Process 4: memory allocated at 0X00000100
+9.30524 - OS: removing process 4
+9.30527 - OS: preparing process 19
+9.30527 - Process 19: start Processsing action
+9.3253 - Process 19: end Processsing action
+9.32531 - Process 19: allocating memory
+9.3804 - Process 19: memory allocated at 0X00000180
+9.38041 - OS: removing process 19
+9.38043 - OS: preparing process 10
+9.38043 - Process 10: start Processsing action
+9.40046 - Process 10: end Processsing action
+9.40047 - Process 10: allocating memory
+9.45557 - Process 10: memory allocated at 0X00000200
+9.45558 - OS: removing process 10
+9.4556 - OS: preparing process 22
+9.4556 - Process 22: start Processsing action
+9.47563 - Process 22: end Processsing action
+9.47564 - Process 22: allocating memory
+9.53073 - Process 22: memory allocated at 0X00000280
+9.53074 - OS: removing process 22
+9.53076 - OS: preparing process 1
+9.53076 - Process 1: start Processsing action
+9.55079 - Process 1: end Processsing action
+9.5508 - Process 1: allocating memory
+9.60589 - Process 1: memory allocated at 0X00000300
+9.6059 - OS: removing process 1
+9.60592 - OS: preparing process 25
+9.60592 - Process 25: start Processsing action
+9.62595 - Process 25: end Processsing action
+9.62598 - Process 25: allocating memory
+9.68107 - Process 25: memory allocated at 0X00000380
+9.68108 - OS: removing process 25
+9.68111 - OS: preparing process 13
+9.68111 - Process 13: start Processsing action
+9.70114 - Process 13: end Processsing action
+9.70115 - Process 13: allocating memory
+9.75624 - Process 13: memory allocated at 0X00000400
+9.75625 - OS: removing process 13
+9.75627 - OS: preparing process 9
+9.75627 - Process 9: start Processsing action
+9.77631 - Process 9: end Processsing action
+9.77632 - Process 9: start keyboard Input
+10.8565 - Process 9: end keyboard Input
+10.8565 - Process 9: allocating memory
+10.8575 - Process 9: memory allocated at 0X00000480
+10.8575 - Process 9: start Processsing action
+10.8976 - Process 9: end Processsing action
+10.8976 - OS: removing process 9
+10.8976 - OS: preparing process 3
+10.8977 - Process 3: start Processsing action
+10.9277 - Process 3: end Processsing action
+10.9277 - Process 3: start keyboard Input
+12.0078 - Process 3: end keyboard Input
+12.0079 - Process 3: allocating memory
+12.0089 - Process 3: memory allocated at 0X00000500
+12.0089 - Process 3: start Processsing action
+12.049 - Process 3: end Processsing action
+12.049 - OS: removing process 3
+12.049 - OS: preparing process 21
+12.049 - Process 21: start Processsing action
+12.0791 - Process 21: end Processsing action
+12.0791 - Process 21: start keyboard Input
+13.1592 - Process 21: end keyboard Input
+13.1593 - Process 21: allocating memory
+13.1603 - Process 21: memory allocated at 0X00000580
+13.1603 - Process 21: start Processsing action
+13.2004 - Process 21: end Processsing action
+13.2004 - OS: removing process 21
+13.2004 - OS: preparing process 15
+13.2004 - Process 15: start Processsing action
+13.2305 - Process 15: end Processsing action
+13.2305 - Process 15: start keyboard Input
+14.3106 - Process 15: end keyboard Input
+14.3106 - Process 15: allocating memory
+14.3117 - Process 15: memory allocated at 0X00000600
+14.3117 - Process 15: start Processsing action
+14.3517 - Process 15: end Processsing action
+14.3517 - OS: removing process 15
+14.3518 - OS: preparing process 6
+14.3518 - Process 6: start Processsing action
+14.3818 - Process 6: end Processsing action
+14.3818 - Process 6: start keyboard Input
+15.4619 - Process 6: end keyboard Input
+15.462 - Process 6: allocating memory
+15.463 - Process 6: memory allocated at 0X00000680
+15.463 - Process 6: start Processsing action
+15.464 - Process 6: end Processsing action
+15.464 - OS: removing process 6
+15.4641 - OS: preparing process 24
+15.4641 - Process 24: start Processsing action
+15.4931 - Process 24: end Processsing action
+15.4931 - Process 24: start keyboard Input
+16.5732 - Process 24: end keyboard Input
+16.5733 - Process 24: allocating memory
+16.5743 - Process 24: memory allocated at 0X00000700
+16.5743 - Process 24: start Processsing action
+16.5753 - Process 24: end Processsing action
+16.5753 - OS: removing process 24
+16.5754 - OS: preparing process 12
+16.5754 - Process 12: start Processsing action
+16.6054 - Process 12: end Processsing action
+16.6054 - Process 12: start keyboard Input
+17.6856 - Process 12: end keyboard Input
+17.6856 - Process 12: allocating memory
+17.6866 - Process 12: memory allocated at 0X00000780
+17.6866 - Process 12: start Processsing action
+17.7267 - Process 12: end Processsing action
+17.7267 - OS: removing process 12
+17.7267 - OS: preparing process 18
+17.7267 - Process 18: start Processsing action
+17.7568 - Process 18: end Processsing action
+17.7568 - Process 18: start keyboard Input
+18.8369 - Process 18: end keyboard Input
+18.837 - Process 18: allocating memory
+18.838 - Process 18: memory allocated at 0X00000000
+18.838 - Process 18: start Processsing action
+18.8781 - Process 18: end Processsing action
+18.8781 - OS: removing process 18
+18.8781 - OS: preparing process 27
+18.8781 - Process 27: start Processsing action
+18.9081 - Process 27: end Processsing action
+18.9082 - Process 27: start keyboard Input
+19.9883 - Process 27: end keyboard Input
+19.9883 - Process 27: allocating memory
+19.9894 - Process 27: memory allocated at 0X00000080
+19.9894 - Process 27: start Processsing action
+20.0294 - Process 27: end Processsing action
+20.0295 - OS: removing process 27
+20.0295 - Simulator program starting ending 
+

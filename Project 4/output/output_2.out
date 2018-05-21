@@ -1,0 +1,15 @@
+Configuration File Data
+Monitor = 31 ms/cycle
+Processor = 5 ms/cycle
+Scanner = 1745490585 ms/cycle
+Hard Drive =14 ms/cycle
+Keyboard = 64 ms/cycle
+Memory = 31 ms/cyce
+Projector = 0 ms/cycle
+System Memory = 32637
+Memory block size (kbytes)= 385909792
+Printer quantity: 5
+Hard drive quantity: 0
+Projector quantity: 32765
+Logged to = Monitor and output/output_2.out
+

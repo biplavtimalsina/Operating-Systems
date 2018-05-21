@@ -1,0 +1,1446 @@
+Configuration File Data
+Monitor = 22 ms/cycle
+Processor = 5 ms/cycle
+Scanner = 30 ms/cycle
+Hard Drive =150 ms/cycle
+Keyboard = 60 ms/cycle
+Memory = 10 ms/cyce
+Projector = 550 ms/cycle
+System Memory = 2048
+Scheduling=2
+Processor Quantum Number=1
+Memory block size (kbytes)= 128
+Hard drive quantity: 2
+Projector quantity: 4
+Logged to = Monitor and logfile_1.lgf
+
+0.004185 - Simulator program starting
+0.004297 - OS: preparing process 1
+0.004316 - Process 1: start Processsing action
+0.704336 - Process 1: end Processsing action
+0.704378 - Process 1: allocating memory
+0.804445 - Process 1: memory allocated at 0X00000000
+0.804473 - OS: removing process 1
+0.80451 - OS: preparing process 2
+0.804519 - Process 2: start hard drive output on HDD0
+1.70487 - Process 2: end hard drive output
+1.70491 - OS: removing process 2
+1.70493 - Simulator program starting ending 
+
+0.005572 - Simulator program starting
+0.005701 - OS: preparing process 1
+0.00572 - Process 1: start Processsing action
+0.605738 - Process 1: end Processsing action
+0.605776 - Process 1: allocating memory
+0.705827 - Process 1: memory allocated at 0X00000000
+0.705838 - OS: removing process 1
+0.705867 - OS: preparing process 2
+0.705874 - Process 2: start hard drive output on HDD0
+1.60614 - Process 2: end hard drive output
+1.60618 - OS: removing process 2
+1.6062 - Simulator program starting ending 
+
+0.007425 - Simulator program starting
+0.007705 - OS: preparing process 1
+0.007738 - Process 1: start Processsing action
+0.607763 - Process 1: end Processsing action
+0.607806 - Process 1: allocating memory
+0.70786 - Process 1: memory allocated at 0X00000000
+0.707883 - OS: removing process 1
+0.707912 - OS: preparing process 2
+0.707921 - Process 2: start hard drive output on HDD0
+1.60821 - Process 2: end hard drive output
+1.60825 - OS: removing process 2
+1.60827 - Simulator program starting ending 
+
+0.007011 - Simulator program starting
+0.007289 - OS: preparing process 1
+0.007327 - Process 1: start Processsing action
+0.607359 - Process 1: end Processsing action
+0.607402 - Process 1: allocating memory
+0.70748 - Process 1: memory allocated at 0X00000000
+0.707516 - OS: removing process 1
+0.707558 - OS: preparing process 2
+0.707568 - Process 2: start hard drive output on HDD0
+1.6079 - Process 2: end hard drive output
+1.60794 - OS: removing process 2
+1.60798 - Simulator program starting ending 
+
+0.006897 - Simulator program starting
+0.007123 - OS: preparing process 1
+0.007177 - Process 1: start Processsing action
+0.607204 - Process 1: end Processsing action
+0.607242 - Process 1: allocating memory
+0.707296 - Process 1: memory allocated at 0X00000000
+0.707317 - OS: removing process 1
+0.707346 - OS: preparing process 2
+0.707354 - Process 2: start hard drive output on HDD0
+1.60765 - Process 2: end hard drive output
+1.60769 - OS: removing process 2
+1.60771 - Simulator program starting ending 
+
+0.00686 - Simulator program starting
+0.007121 - OS: preparing process 1
+0.007158 - Process 1: start Processsing action
+0.607182 - Process 1: end Processsing action
+0.60722 - Process 1: allocating memory
+0.707268 - Process 1: memory allocated at 0X00000000
+0.707278 - OS: removing process 1
+0.707306 - OS: preparing process 2
+0.707313 - Process 2: start hard drive output on HDD0
+1.60759 - Process 2: end hard drive output
+1.60763 - OS: removing process 2
+1.60765 - Simulator program starting ending 
+
+0.006928 - Simulator program starting
+0.007134 - OS: preparing process 1
+0.007159 - Process 1: start Processsing action
+0.607179 - Process 1: end Processsing action
+0.607218 - Process 1: allocating memory
+0.707267 - Process 1: memory allocated at 0X00000000
+0.707279 - OS: removing process 1
+0.70731 - OS: preparing process 2
+0.707317 - Process 2: start hard drive output on HDD0
+1.60759 - Process 2: end hard drive output
+1.60763 - OS: removing process 2
+1.60767 - OS: preparing process 3
+1.60767 - Process 3: start Processsing action
+1.70768 - Process 3: end Processsing action
+1.70769 - Process 3: start keyboard Input
+1.18016 - Process 3: end keyboard Input
+2.78787 - Process 3: allocating memory
+2.8879 - Process 3: memory allocated at 0X00000080
+2.88792 - Process 3: start Processsing action
+2.98792 - Process 3: end Processsing action
+2.98793 - OS: removing process 3
+2.98795 - Simulator program starting ending 
+
+0.005923 - Simulator program starting
+0.006159 - OS: preparing process 1
+0.006187 - Process 1: start Processsing action
+0.606206 - Process 1: end Processsing action
+0.606245 - Process 1: allocating memory
+0.706292 - Process 1: memory allocated at 0X00000000
+0.706303 - OS: removing process 1
+0.706332 - OS: preparing process 2
+0.70634 - Process 2: start hard drive output on HDD0
+1.60661 - Process 2: end hard drive output
+1.60665 - OS: removing process 2
+1.60669 - OS: preparing process 3
+1.60669 - Process 3: start Processsing action
+1.7067 - Process 3: end Processsing action
+1.70671 - Process 3: start keyboard Input
+1.18015 - Process 3: end keyboard Input
+2.78688 - Process 3: allocating memory
+2.88691 - Process 3: memory allocated at 0X00000080
+2.88692 - Process 3: start Processsing action
+2.98692 - Process 3: end Processsing action
+2.98693 - OS: removing process 3
+2.98694 - Simulator program starting ending 
+
+0.006608 - Simulator program starting
+0.006762 - OS: preparing process 1
+0.006771 - Process 1: start Processsing action
+0.606783 - Process 1: end Processsing action
+0.606821 - Process 1: allocating memory
+0.706869 - Process 1: memory allocated at 0X00000000
+0.706881 - OS: removing process 1
+0.706943 - OS: preparing process 2
+0.706953 - Process 2: start hard drive output on HDD0
+1.60724 - Process 2: end hard drive output
+1.60728 - OS: removing process 2
+1.60735 - OS: preparing process 3
+1.60736 - Process 3: start Processsing action
+1.70737 - Process 3: end Processsing action
+1.70741 - Process 3: start keyboard Input
+1.18021 - Process 3: end keyboard Input
+2.7876 - Process 3: allocating memory
+2.88763 - Process 3: memory allocated at 0X00000080
+2.88764 - Process 3: start Processsing action
+2.98765 - Process 3: end Processsing action
+2.98765 - OS: removing process 3
+2.98767 - Simulator program starting ending 
+
+0.006768 - Simulator program starting
+0.007073 - OS: preparing process 1
+0.00714 - Process 1: start Processsing action
+0.607172 - Process 1: end Processsing action
+0.60721 - Process 1: allocating memory
+0.707257 - Process 1: memory allocated at 0X00000000
+0.707266 - OS: removing process 1
+0.707327 - OS: preparing process 2
+0.707337 - Process 2: start hard drive output on HDD0
+1.60761 - Process 2: end hard drive output
+1.60765 - OS: removing process 2
+1.60772 - OS: preparing process 3
+1.60772 - Process 3: start Processsing action
+1.70774 - Process 3: end Processsing action
+1.70777 - Process 3: start keyboard Input
+1.1802 - Process 3: end keyboard Input
+2.78796 - Process 3: allocating memory
+2.88799 - Process 3: memory allocated at 0X00000080
+2.888 - Process 3: start Processsing action
+2.988 - Process 3: end Processsing action
+2.98801 - OS: removing process 3
+2.98802 - Simulator program starting ending 
+
+0.005865 - Simulator program starting
+0.005989 - OS: preparing process 1
+0.006006 - Process 1: start Processsing action
+0.606026 - Process 1: end Processsing action
+0.606061 - Process 1: allocating memory
+0.706107 - Process 1: memory allocated at 0X00000000
+0.706118 - OS: removing process 1
+0.706179 - OS: preparing process 2
+0.70619 - Process 2: start hard drive output on HDD0
+1.60648 - Process 2: end hard drive output
+1.60652 - Process 2: start hard drive output on HDD1
+2.50665 - Process 2: end hard drive output
+2.50671 - OS: removing process 2
+2.50677 - OS: preparing process 3
+2.50678 - Process 3: start Processsing action
+2.60678 - Process 3: end Processsing action
+2.60682 - Process 3: start keyboard Input
+1.18018 - Process 3: end keyboard Input
+3.68699 - Process 3: allocating memory
+3.78702 - Process 3: memory allocated at 0X00000080
+3.78703 - Process 3: start Processsing action
+3.88703 - Process 3: end Processsing action
+3.88704 - OS: removing process 3
+3.88706 - Simulator program starting ending 
+
+0.005644 - Simulator program starting
+0.005736 - OS: preparing process 1
+0.005745 - Process 1: start Processsing action
+0.605758 - Process 1: end Processsing action
+0.605798 - Process 1: allocating memory
+0.705847 - Process 1: memory allocated at 0X00000000
+0.705859 - OS: removing process 1
+0.705914 - OS: preparing process 2
+0.705927 - Process 2: start hard drive output on HDD0
+1.60624 - Process 2: end hard drive output
+1.60628 - Process 2: start hard drive output on HDD1
+2.50642 - Process 2: end hard drive output
+2.50647 - OS: removing process 2
+2.50653 - OS: preparing process 3
+2.50654 - Process 3: start Processsing action
+2.60655 - Process 3: end Processsing action
+2.60659 - Process 3: start keyboard Input
+1.18019 - Process 3: end keyboard Input
+3.68676 - Process 3: allocating memory
+3.7868 - Process 3: memory allocated at 0X00000080
+3.78681 - Process 3: start Processsing action
+3.88681 - Process 3: end Processsing action
+3.88682 - Process 3: start hard drive output on HDD0
+4.78693 - Process 3: end hard drive output
+4.78698 - Process 3: start hard drive output on HDD1
+5.6871 - Process 3: end hard drive output
+5.68715 - OS: removing process 3
+5.68717 - Simulator program starting ending 
+
+0.005749 - Simulator program starting
+0.005861 - OS: preparing process 1
+0.00587 - Process 1: start Processsing action
+0.605883 - Process 1: end Processsing action
+0.605923 - Process 1: allocating memory
+0.705971 - Process 1: memory allocated at 0X00000000
+0.705983 - OS: removing process 1
+0.70604 - OS: preparing process 2
+0.706053 - Process 2: start hard drive output on HDD0
+1.60634 - Process 2: end hard drive output
+1.60638 - Process 2: start hard drive output on HDD1
+2.50651 - Process 2: end hard drive output
+2.50656 - OS: removing process 2
+2.50663 - OS: preparing process 3
+2.50664 - Process 3: start Processsing action
+2.60664 - Process 3: end Processsing action
+2.60669 - Process 3: start keyboard Input
+1.1802 - Process 3: end keyboard Input
+3.68687 - Process 3: allocating memory
+3.7869 - Process 3: memory allocated at 0X00000080
+3.78691 - Process 3: start Processsing action
+3.88691 - Process 3: end Processsing action
+3.88692 - Process 3: start hard drive output on HDD0
+4.78701 - Process 3: end hard drive output
+4.78704 - Process 3: start hard drive output on HDD1
+5.68714 - Process 3: end hard drive output
+5.68718 - OS: removing process 3
+5.6872 - Simulator program starting ending 
+
+0.006772 - Simulator program starting
+0.007163 - OS: preparing process 1
+0.007211 - Process 1: start Processsing action
+0.607231 - Process 1: end Processsing action
+0.607269 - Process 1: allocating memory
+0.707317 - Process 1: memory allocated at 0X00000000
+0.707326 - OS: removing process 1
+0.707386 - OS: preparing process 2
+0.707398 - Process 2: start hard drive output on HDD0
+1.60768 - Process 2: end hard drive output
+1.60773 - Process 2: start hard drive output on HDD1
+2.50786 - Process 2: end hard drive output
+2.50791 - OS: removing process 2
+2.50799 - OS: preparing process 3
+2.50799 - Process 3: start Processsing action
+2.608 - Process 3: end Processsing action
+2.60804 - Process 3: start keyboard Input
+1.18019 - Process 3: end keyboard Input
+3.68822 - Process 3: allocating memory
+3.78825 - Process 3: memory allocated at 0X00000080
+3.78826 - Process 3: start Processsing action
+3.88826 - Process 3: end Processsing action
+3.88827 - Process 3: start hard drive output on HDD0
+4.78837 - Process 3: end hard drive output
+4.7884 - Process 3: start hard drive output on HDD1
+5.68852 - Process 3: end hard drive output
+5.68856 - OS: removing process 3
+5.68858 - Simulator program starting ending 
+
+0.006863 - Simulator program starting
+0.00726 - OS: preparing process 1
+0.007297 - Process 1: start Processsing action
+0.607325 - Process 1: end Processsing action
+0.607363 - Process 1: allocating memory
+0.707411 - Process 1: memory allocated at 0X00000000
+0.707423 - OS: removing process 1
+0.707477 - OS: preparing process 2
+0.70749 - Process 2: start hard drive output on HDD0
+1.60777 - Process 2: end hard drive output
+1.60782 - Process 2: start hard drive output on HDD1
+2.50794 - Process 2: end hard drive output
+2.50799 - OS: removing process 2
+2.50809 - OS: preparing process 3
+2.5081 - Process 3: start Processsing action
+2.6081 - Process 3: end Processsing action
+2.60814 - Process 3: start keyboard Input
+1.18021 - Process 3: end keyboard Input
+3.68834 - Process 3: allocating memory
+3.78837 - Process 3: memory allocated at 0X00000080
+3.78838 - Process 3: start Processsing action
+3.88839 - Process 3: end Processsing action
+3.8884 - Process 3: start hard drive output on HDD0
+4.7885 - Process 3: end hard drive output
+4.78853 - Process 3: start hard drive output on HDD1
+5.68864 - Process 3: end hard drive output
+5.68867 - OS: removing process 3
+5.68869 - Simulator program starting ending 
+
+0.00557 - Simulator program starting
+0.005868 - OS: preparing process 1
+0.005887 - Process 1: start Processsing action
+0.605906 - Process 1: end Processsing action
+0.605946 - Process 1: allocating memory
+0.705994 - Process 1: memory allocated at 0X00000000
+0.706006 - OS: removing process 1
+0.706065 - OS: preparing process 2
+0.706077 - Process 2: start hard drive output on HDD0
+1.60637 - Process 2: end hard drive output
+1.60642 - Process 2: start hard drive output on HDD1
+2.50653 - Process 2: end hard drive output
+2.50658 - OS: removing process 2
+2.50669 - OS: preparing process 3
+2.50669 - Process 3: start Processsing action
+2.6067 - Process 3: end Processsing action
+2.60673 - Process 3: start keyboard Input
+1.18023 - Process 3: end keyboard Input
+3.68695 - Process 3: allocating memory
+3.78698 - Process 3: memory allocated at 0X00000080
+3.78699 - Process 3: start Processsing action
+3.887 - Process 3: end Processsing action
+3.88701 - Process 3: start hard drive output on HDD0
+4.78713 - Process 3: end hard drive output
+4.78719 - Process 3: start hard drive output on HDD1
+5.6873 - Process 3: end hard drive output
+5.68734 - OS: removing process 3
+5.68736 - Simulator program starting ending 
+
+0.006761 - Simulator program starting
+0.007269 - OS: preparing process 1
+0.0073 - Process 1: start Processsing action
+0.607325 - Process 1: end Processsing action
+0.607364 - Process 1: allocating memory
+0.707412 - Process 1: memory allocated at 0X00000000
+0.707424 - OS: removing process 1
+0.707484 - OS: preparing process 2
+0.707496 - Process 2: start hard drive output on HDD0
+1.6078 - Process 2: end hard drive output
+1.60784 - Process 2: start hard drive output on HDD1
+2.50797 - Process 2: end hard drive output
+2.50802 - OS: removing process 2
+2.50812 - OS: preparing process 3
+2.50813 - Process 3: start Processsing action
+2.60814 - Process 3: end Processsing action
+2.60818 - Process 3: start keyboard Input
+1.18022 - Process 3: end keyboard Input
+3.68838 - Process 3: allocating memory
+3.78841 - Process 3: memory allocated at 0X00000080
+3.78842 - Process 3: start Processsing action
+3.88842 - Process 3: end Processsing action
+3.88844 - Process 3: start hard drive output on HDD0
+4.78856 - Process 3: end hard drive output
+4.78862 - Process 3: start hard drive output on HDD1
+5.68874 - Process 3: end hard drive output
+5.68878 - OS: removing process 3
+5.6888 - Simulator program starting ending 
+
+0.005731 - Simulator program starting
+0.005964 - OS: preparing process 1
+0.005984 - Process 1: start Processsing action
+0.606002 - Process 1: end Processsing action
+0.60604 - Process 1: allocating memory
+0.706089 - Process 1: memory allocated at 0X00000000
+0.706101 - OS: removing process 1
+0.706157 - OS: preparing process 2
+0.70617 - Process 2: start hard drive output on HDD0
+1.60646 - Process 2: end hard drive output
+1.60651 - Process 2: start hard drive output on HDD1
+2.50664 - Process 2: end hard drive output
+2.5067 - OS: removing process 2
+2.50677 - OS: preparing process 3
+2.50677 - Process 3: start Processsing action
+2.60678 - Process 3: end Processsing action
+2.60682 - Process 3: start keyboard Input
+1.18019 - Process 3: end keyboard Input
+3.687 - Process 3: allocating memory
+3.78703 - Process 3: memory allocated at 0X00000080
+3.78704 - Process 3: start Processsing action
+3.88704 - Process 3: end Processsing action
+3.88705 - Process 3: start hard drive output on HDD0
+4.78717 - Process 3: end hard drive output
+4.78722 - Process 3: start hard drive output on HDD1
+5.68734 - Process 3: end hard drive output
+5.68737 - OS: removing process 3
+5.68739 - Simulator program starting ending 
+
+0.006851 - Simulator program starting
+0.007138 - OS: preparing process 1
+0.007155 - Process 1: start Processsing action
+0.607172 - Process 1: end Processsing action
+0.60721 - Process 1: allocating memory
+0.70726 - Process 1: memory allocated at 0X00000000
+0.707272 - OS: removing process 1
+0.707332 - OS: preparing process 2
+0.707342 - Process 2: start hard drive output on HDD0
+1.60762 - Process 2: end hard drive output
+1.60767 - Process 2: start hard drive output on HDD1
+2.50779 - Process 2: end hard drive output
+2.50784 - OS: removing process 2
+2.50791 - OS: preparing process 3
+2.50792 - Process 3: start Processsing action
+2.60792 - Process 3: end Processsing action
+2.60796 - Process 3: start keyboard Input
+1.18021 - Process 3: end keyboard Input
+3.68817 - Process 3: allocating memory
+3.7882 - Process 3: memory allocated at 0X00000080
+3.78821 - Process 3: start Processsing action
+3.88821 - Process 3: end Processsing action
+3.88822 - Process 3: start hard drive output on HDD0
+4.78835 - Process 3: end hard drive output
+4.78837 - Process 3: start hard drive output on HDD1
+5.68854 - Process 3: end hard drive output
+5.68858 - OS: removing process 3
+5.6886 - Simulator program starting ending 
+
+0.007161 - Simulator program starting
+0.007516 - OS: preparing process 1
+0.007542 - Process 1: start Processsing action
+0.607563 - Process 1: end Processsing action
+0.607607 - Process 1: allocating memory
+0.707662 - Process 1: memory allocated at 0X00000000
+0.707674 - OS: removing process 1
+0.707734 - OS: preparing process 2
+0.707746 - Process 2: start hard drive output on HDD0
+1.60804 - Process 2: end hard drive output
+1.60809 - Process 2: start hard drive output on HDD1
+2.50822 - Process 2: end hard drive output
+2.50827 - OS: removing process 2
+2.50834 - OS: preparing process 3
+2.50835 - Process 3: start Processsing action
+2.60835 - Process 3: end Processsing action
+2.60839 - Process 3: start keyboard Input
+1.1802 - Process 3: end keyboard Input
+3.68858 - Process 3: allocating memory
+3.78863 - Process 3: memory allocated at 0X00000080
+3.78866 - Process 3: start Processsing action
+3.88867 - Process 3: end Processsing action
+3.88871 - Process 3: start hard drive output on HDD0
+4.78884 - Process 3: end hard drive output
+4.78887 - Process 3: start hard drive output on HDD1
+5.68898 - Process 3: end hard drive output
+5.68902 - OS: removing process 3
+5.68903 - Simulator program starting ending 
+
+0.006791 - Simulator program starting
+0.007408 - OS: preparing process 1
+0.007461 - Process 1: start Processsing action
+0.607485 - Process 1: end Processsing action
+0.607525 - Process 1: allocating memory
+0.707573 - Process 1: memory allocated at 0X00000000
+0.707585 - OS: removing process 1
+0.70765 - OS: preparing process 2
+0.70766 - Process 2: start hard drive output on HDD0
+1.60795 - Process 2: end hard drive output
+1.608 - Process 2: start hard drive output on HDD1
+2.50813 - Process 2: end hard drive output
+2.50818 - OS: removing process 2
+2.50824 - OS: preparing process 3
+2.50825 - Process 3: start Processsing action
+2.60826 - Process 3: end Processsing action
+2.6083 - Process 3: start keyboard Input
+1.1802 - Process 3: end keyboard Input
+3.68848 - Process 3: allocating memory
+3.78851 - Process 3: memory allocated at 0X00000080
+3.78852 - Process 3: start Processsing action
+3.88853 - Process 3: end Processsing action
+3.88854 - Process 3: start hard drive output on HDD0
+4.78865 - Process 3: end hard drive output
+4.7887 - Process 3: start hard drive output on HDD1
+5.6888 - Process 3: end hard drive output
+5.68884 - OS: removing process 3
+5.68885 - Simulator program starting ending 
+
+0.007061 - Simulator program starting
+0.007719 - OS: preparing process 1
+0.007763 - Process 1: start Processsing action
+0.607797 - Process 1: end Processsing action
+0.607833 - Process 1: allocating memory
+0.707893 - Process 1: memory allocated at 0X00000000
+0.707922 - OS: removing process 1
+0.707985 - OS: preparing process 2
+0.707998 - Process 2: start hard drive output on HDD0
+1.60828 - Process 2: end hard drive output
+1.60833 - Process 2: start hard drive output on HDD1
+2.50846 - Process 2: end hard drive output
+2.50851 - OS: removing process 2
+2.50857 - OS: preparing process 3
+2.50858 - Process 3: start Processsing action
+2.60859 - Process 3: end Processsing action
+2.60863 - Process 3: start keyboard Input
+1.18018 - Process 3: end keyboard Input
+3.6888 - Process 3: allocating memory
+3.78883 - Process 3: memory allocated at 0X00000080
+3.78884 - Process 3: start Processsing action
+3.88884 - Process 3: end Processsing action
+3.88885 - Process 3: start hard drive output on HDD0
+4.78896 - Process 3: end hard drive output
+4.78901 - Process 3: start hard drive output on HDD1
+5.68913 - Process 3: end hard drive output
+5.68917 - OS: removing process 3
+5.68919 - Simulator program starting ending 
+
+0.005696 - Simulator program starting
+0.005911 - OS: preparing process 1
+0.005927 - Process 1: start Processsing action
+0.605939 - Process 1: end Processsing action
+0.605978 - Process 1: allocating memory
+0.706026 - Process 1: memory allocated at 0X00000000
+0.706039 - OS: removing process 1
+0.706093 - OS: preparing process 2
+0.706104 - Process 2: start hard drive output on HDD0
+1.60639 - Process 2: end hard drive output
+1.60643 - Process 2: start hard drive output on HDD1
+2.50656 - Process 2: end hard drive output
+2.50661 - OS: removing process 2
+2.50671 - OS: preparing process 3
+2.50672 - Process 3: start Processsing action
+2.60672 - Process 3: end Processsing action
+2.60677 - Process 3: start keyboard Input
+1.18019 - Process 3: end keyboard Input
+3.68694 - Process 3: allocating memory
+3.78697 - Process 3: memory allocated at 0X00000080
+3.78697 - Process 3: start Processsing action
+3.88698 - Process 3: end Processsing action
+3.88702 - Process 3: start hard drive output on HDD0
+4.78713 - Process 3: end hard drive output
+4.78715 - Process 3: start hard drive output on HDD1
+5.68724 - Process 3: end hard drive output
+5.68729 - OS: removing process 3
+5.6873 - Simulator program starting ending 
+
+0.005746 - Simulator program starting
+0.005965 - OS: preparing process 1
+0.005981 - Process 1: start Processsing action
+0.605994 - Process 1: end Processsing action
+0.606033 - Process 1: allocating memory
+0.706079 - Process 1: memory allocated at 0X00000000
+0.706091 - OS: removing process 1
+0.706152 - OS: preparing process 2
+0.706163 - Process 2: start hard drive output on HDD0
+1.60645 - Process 2: end hard drive output
+1.60649 - Process 2: start hard drive output on HDD1
+2.50662 - Process 2: end hard drive output
+2.50667 - OS: removing process 2
+2.50675 - OS: preparing process 3
+2.50675 - Process 3: start Processsing action
+2.60676 - Process 3: end Processsing action
+2.6068 - Process 3: start keyboard Input
+1.18019 - Process 3: end keyboard Input
+3.68698 - Process 3: allocating memory
+3.78701 - Process 3: memory allocated at 0X00000080
+3.78702 - Process 3: start Processsing action
+3.88702 - Process 3: end Processsing action
+3.88703 - Process 3: start hard drive output on HDD0
+4.78715 - Process 3: end hard drive output
+4.7872 - Process 3: start hard drive output on HDD1
+5.68731 - Process 3: end hard drive output
+5.68735 - OS: removing process 3
+5.68737 - Simulator program starting ending 
+
+0.006491 - Simulator program starting
+0.006728 - OS: preparing process 1
+0.006739 - Process 1: start Processsing action
+0.606751 - Process 1: end Processsing action
+0.606792 - Process 1: allocating memory
+0.706842 - Process 1: memory allocated at 0X00000000
+0.706856 - OS: removing process 1
+0.706918 - OS: preparing process 2
+0.706927 - Process 2: start hard drive output on HDD0
+1.60724 - Process 2: end hard drive output
+1.60728 - Process 2: start hard drive output on HDD1
+2.50741 - Process 2: end hard drive output
+2.50747 - OS: removing process 2
+2.50754 - OS: preparing process 3
+2.50755 - Process 3: start Processsing action
+2.60755 - Process 3: end Processsing action
+2.60759 - Process 3: start keyboard Input
+1.1802 - Process 3: end keyboard Input
+3.68778 - Process 3: allocating memory
+3.78781 - Process 3: memory allocated at 0X00000080
+3.78782 - Process 3: start Processsing action
+3.88783 - Process 3: end Processsing action
+3.88784 - Process 3: start hard drive output on HDD0
+4.78796 - Process 3: end hard drive output
+4.78801 - Process 3: start hard drive output on HDD1
+5.68813 - Process 3: end hard drive output
+5.68818 - OS: removing process 3
+5.6882 - Simulator program starting ending 
+
+0.006563 - Simulator program starting
+0.007524 - OS: preparing process 1
+0.007546 - Process 1: start Processsing action
+0.607564 - Process 1: end Processsing action
+0.607598 - Process 1: allocating memory
+0.707641 - Process 1: memory allocated at 0X00000000
+0.70765 - OS: removing process 1
+0.707711 - OS: preparing process 2
+0.70772 - Process 2: start hard drive output on HDD0
+1.60801 - Process 2: end hard drive output
+1.60806 - Process 2: start hard drive output on HDD1
+2.50819 - Process 2: end hard drive output
+2.50824 - OS: removing process 2
+2.50831 - OS: preparing process 3
+2.50832 - Process 3: start Processsing action
+2.60832 - Process 3: end Processsing action
+2.60836 - Process 3: start keyboard Input
+1.18019 - Process 3: end keyboard Input
+3.68854 - Process 3: allocating memory
+3.78857 - Process 3: memory allocated at 0X00000080
+3.78858 - Process 3: start Processsing action
+3.88858 - Process 3: end Processsing action
+3.88859 - OS: removing process 3
+3.8886 - Simulator program starting ending 
+
+0.006394 - Simulator program starting
+0.006676 - Simulator program starting ending 
+
+0.005167 - Simulator program starting
+0.005346 - OS: preparing process 1
+0.005358 - Process 1: start Processsing action
+0.605372 - Process 1: end Processsing action
+0.605409 - Process 1: allocating memory
+0.705464 - Process 1: memory allocated at 0X00000000
+0.705481 - OS: removing process 1
+0.705547 - OS: preparing process 2
+0.705558 - Process 2: start hard drive output on HDD0
+1.60583 - Process 2: end hard drive output
+1.60587 - Process 2: start hard drive output on HDD1
+2.50602 - Process 2: end hard drive output
+2.50607 - OS: removing process 2
+2.50614 - OS: preparing process 3
+2.50615 - Process 3: start Processsing action
+2.60615 - Process 3: end Processsing action
+2.60619 - Process 3: start keyboard Input
+1.18019 - Process 3: end keyboard Input
+3.68637 - Process 3: allocating memory
+3.78641 - Process 3: memory allocated at 0X00000080
+3.78643 - Process 3: start Processsing action
+3.88643 - Process 3: end Processsing action
+3.88644 - OS: removing process 3
+3.88646 - Simulator program starting ending 
+
+0.002673 - Simulator program starting
+0.003056 - OS: preparing process 1
+0.003074 - Process 1: start Processsing action
+0.603089 - Process 1: end Processsing action
+0.603129 - Process 1: allocating memory
+0.703183 - Process 1: memory allocated at 0X00000000
+0.703206 - OS: removing process 1
+0.703263 - OS: preparing process 2
+0.703275 - Process 2: start hard drive output on HDD0
+1.60358 - Process 2: end hard drive output
+1.60362 - Process 2: start hard drive output on HDD1
+2.50375 - Process 2: end hard drive output
+2.5038 - OS: removing process 2
+2.5039 - OS: preparing process 3
+2.50391 - Process 3: start Processsing action
+2.60391 - Process 3: end Processsing action
+2.60395 - Process 3: start keyboard Input
+1.18023 - Process 3: end keyboard Input
+3.68417 - Process 3: allocating memory
+3.7842 - Process 3: memory allocated at 0X00000080
+3.78422 - Process 3: start Processsing action
+3.88423 - Process 3: end Processsing action
+3.88424 - OS: removing process 3
+3.88425 - Simulator program starting ending 
+
+0.005724 - Simulator program starting
+0.006035 - OS: preparing process 1
+0.00605 - Process 1: start Processsing action
+0.606064 - Process 1: end Processsing action
+0.606101 - Process 1: allocating memory
+0.706152 - Process 1: memory allocated at 0X00000000
+0.706164 - OS: removing process 1
+0.706226 - OS: preparing process 2
+0.706237 - Process 2: start hard drive output on HDD0
+1.60651 - Process 2: end hard drive output
+1.60656 - Process 2: start hard drive output on HDD1
+2.50671 - Process 2: end hard drive output
+2.50676 - OS: removing process 2
+2.50683 - OS: preparing process 3
+2.50683 - Process 3: start Processsing action
+2.60684 - Process 3: end Processsing action
+2.60688 - Process 3: start keyboard Input
+1.18018 - Process 3: end keyboard Input
+3.68705 - Process 3: allocating memory
+3.7871 - Process 3: memory allocated at 0X00000080
+3.78713 - Process 3: start Processsing action
+3.88713 - Process 3: end Processsing action
+3.88717 - OS: removing process 3
+3.88719 - Simulator program starting ending 
+
+0.005331 - Simulator program starting
+0.005673 - OS: preparing process 1
+0.005689 - Process 1: start Processsing action
+0.605704 - Process 1: end Processsing action
+0.605745 - Process 1: allocating memory
+0.705795 - Process 1: memory allocated at 0X00000000
+0.705808 - OS: removing process 1
+0.705871 - OS: preparing process 2
+0.705884 - Process 2: start hard drive output on HDD0
+1.6062 - Process 2: end hard drive output
+1.60624 - Process 2: start hard drive output on HDD1
+2.50638 - Process 2: end hard drive output
+2.50644 - OS: removing process 2
+2.50652 - OS: preparing process 3
+2.50652 - Process 3: start Processsing action
+2.60653 - Process 3: end Processsing action
+2.60657 - Process 3: start keyboard Input
+1.1802 - Process 3: end keyboard Input
+3.68676 - Process 3: allocating memory
+3.78679 - Process 3: memory allocated at 0X00000080
+3.78681 - Process 3: start Processsing action
+3.88681 - Process 3: end Processsing action
+3.88683 - OS: removing process 3
+3.88684 - Simulator program starting ending 
+
+0.005846 - Simulator program starting
+0.006106 - OS: preparing process 1
+0.006121 - Process 1: start Processsing action
+0.606137 - Process 1: end Processsing action
+0.606177 - Process 1: allocating memory
+0.706229 - Process 1: memory allocated at 0X00000000
+0.706249 - OS: removing process 1
+0.706308 - OS: preparing process 2
+0.706319 - Process 2: start hard drive output on HDD0
+1.60661 - Process 2: end hard drive output
+1.60666 - Process 2: start hard drive output on HDD1
+2.50679 - Process 2: end hard drive output
+2.50685 - OS: removing process 2
+2.50692 - OS: preparing process 3
+2.50693 - Process 3: start Processsing action
+2.60693 - Process 3: end Processsing action
+2.60697 - Process 3: start keyboard Input
+1.1802 - Process 3: end keyboard Input
+3.68715 - Process 3: allocating memory
+3.78719 - Process 3: memory allocated at 0X00000080
+3.7872 - Process 3: start Processsing action
+3.8872 - Process 3: end Processsing action
+3.88722 - OS: removing process 3
+3.88724 - Simulator program starting ending 
+
+0.006314 - Simulator program starting
+0.006693 - OS: preparing process 1
+0.006731 - Process 1: start Processsing action
+0.606752 - Process 1: end Processsing action
+0.60679 - Process 1: allocating memory
+0.706841 - Process 1: memory allocated at 0X00000000
+0.706854 - OS: removing process 1
+0.706918 - OS: preparing process 2
+0.706928 - Process 2: start hard drive output on HDD0
+1.6072 - Process 2: end hard drive output
+1.60725 - Process 2: start hard drive output on HDD1
+2.50737 - Process 2: end hard drive output
+2.50742 - OS: removing process 2
+2.50752 - OS: preparing process 3
+2.50753 - Process 3: start Processsing action
+2.60753 - Process 3: end Processsing action
+2.60757 - Process 3: start keyboard Input
+1.18022 - Process 3: end keyboard Input
+3.68778 - Process 3: allocating memory
+3.78781 - Process 3: memory allocated at 0X00000080
+3.78782 - Process 3: start Processsing action
+3.88782 - Process 3: end Processsing action
+3.88785 - OS: removing process 3
+3.88787 - Simulator program starting ending 
+
+0.006609 - Simulator program starting
+0.007267 - OS: preparing process 2
+0.007303 - Process 2: start hard drive output on HDD0
+0.907659 - Process 2: end hard drive output
+0.907702 - Process 2: start hard drive output on HDD1
+1.80783 - Process 2: end hard drive output
+1.80787 - OS: removing process 2
+1.80799 - OS: preparing process 3
+1.808 - Process 3: start Processsing action
+1.90801 - Process 3: end Processsing action
+1.90805 - Process 3: start keyboard Input
+1.18019 - Process 3: end keyboard Input
+2.98822 - Process 3: allocating memory
+3.08829 - Process 3: memory allocated at 0X00000000
+3.08831 - Process 3: start Processsing action
+3.18832 - Process 3: end Processsing action
+3.18833 - OS: removing process 3
+3.18838 - OS: preparing process 1
+3.18839 - Process 1: start Processsing action
+3.2884 - Process 1: end Processsing action
+3.28844 - Process 1: allocating memory
+3.38847 - Process 1: memory allocated at 0X00000080
+3.38848 - OS: removing process 1
+3.38849 - Simulator program starting ending 
+
+0.00593 - Simulator program starting
+0.006476 - OS: preparing process 1
+0.006501 - Process 1: start Processsing action
+0.606523 - Process 1: end Processsing action
+0.606563 - Process 1: allocating memory
+0.706612 - Process 1: memory allocated at 0X00000000
+0.706625 - OS: removing process 1
+0.706684 - OS: preparing process 2
+0.706694 - Process 2: start hard drive output on HDD0
+1.60698 - Process 2: end hard drive output
+1.60702 - Process 2: start hard drive output on HDD1
+2.50716 - Process 2: end hard drive output
+2.50721 - OS: removing process 2
+2.50727 - OS: preparing process 3
+2.50728 - Process 3: start Processsing action
+2.60729 - Process 3: end Processsing action
+2.60733 - Process 3: start keyboard Input
+1.1802 - Process 3: end keyboard Input
+3.68751 - Process 3: allocating memory
+3.78754 - Process 3: memory allocated at 0X00000080
+3.78755 - Process 3: start Processsing action
+3.88756 - Process 3: end Processsing action
+3.88757 - OS: removing process 3
+3.88758 - Simulator program starting ending 
+
+0.005725 - Simulator program starting
+0.006035 - OS: preparing process 1
+0.006055 - Process 1: start Processsing action
+0.606068 - Process 1: end Processsing action
+0.606107 - Process 1: allocating memory
+0.706157 - Process 1: memory allocated at 0X00000000
+0.706169 - OS: removing process 1
+0.706228 - OS: preparing process 2
+0.706239 - Process 2: start hard drive output on HDD0
+1.60654 - Process 2: end hard drive output
+1.60658 - Process 2: start hard drive output on HDD1
+2.50671 - Process 2: end hard drive output
+2.50676 - OS: removing process 2
+2.50686 - OS: preparing process 3
+2.50687 - Process 3: start Processsing action
+2.60688 - Process 3: end Processsing action
+2.60691 - Process 3: start keyboard Input
+1.18023 - Process 3: end keyboard Input
+3.68713 - Process 3: allocating memory
+3.78716 - Process 3: memory allocated at 0X00000080
+3.78717 - Process 3: start Processsing action
+3.88718 - Process 3: end Processsing action
+3.88718 - OS: removing process 3
+3.8872 - Simulator program starting ending 
+
+0.005804 - Simulator program starting
+0.006105 - OS: preparing process 1
+0.006122 - Process 1: start Processsing action
+0.606135 - Process 1: end Processsing action
+0.60617 - Process 1: allocating memory
+0.706218 - Process 1: memory allocated at 0X00000000
+0.70623 - OS: removing process 1
+0.70629 - OS: preparing process 2
+0.706301 - Process 2: start hard drive output on HDD0
+1.60659 - Process 2: end hard drive output
+1.60663 - Process 2: start hard drive output on HDD1
+2.50675 - Process 2: end hard drive output
+2.5068 - OS: removing process 2
+2.50691 - OS: preparing process 3
+2.50692 - Process 3: start Processsing action
+2.60692 - Process 3: end Processsing action
+2.60696 - Process 3: start keyboard Input
+1.18023 - Process 3: end keyboard Input
+3.68717 - Process 3: allocating memory
+3.78721 - Process 3: memory allocated at 0X00000080
+3.78724 - Process 3: start Processsing action
+3.88725 - Process 3: end Processsing action
+3.88729 - OS: removing process 3
+3.88731 - Simulator program starting ending 
+
+0.00703 - Simulator program starting
+0.007919 - OS: preparing process 3
+0.00799 - Process 3: start Processsing action
+0.608021 - Process 3: end Processsing action
+0.608057 - OS: removing process 3
+0.608141 - OS: preparing process 2
+0.608151 - Process 2: start hard drive output on HDD0
+1.50843 - Process 2: end hard drive output
+1.50847 - Process 2: start hard drive output on HDD1
+2.4086 - Process 2: end hard drive output
+2.40864 - OS: removing process 2
+2.40875 - OS: preparing process 1
+2.40875 - Process 1: start Processsing action
+2.50876 - Process 1: end Processsing action
+2.5088 - Process 1: allocating memory
+2.60886 - Process 1: memory allocated at 0X00000000
+2.60887 - OS: removing process 1
+2.60889 - Simulator program starting ending 
+
+0.005862 - Simulator program starting
+0.006512 - OS: preparing process 3
+0.006541 - Process 3: start Processsing action
+0.606565 - Process 3: end Processsing action
+0.606598 - OS: removing process 3
+0.606679 - OS: preparing process 1
+0.606688 - Process 1: start Processsing action
+0.706695 - Process 1: end Processsing action
+0.706736 - Process 1: allocating memory
+0.806782 - Process 1: memory allocated at 0X00000000
+0.806797 - OS: removing process 1
+0.806855 - OS: preparing process 2
+0.806866 - Process 2: start hard drive output on HDD0
+1.70717 - Process 2: end hard drive output
+1.70721 - Process 2: start hard drive output on HDD1
+2.60734 - Process 2: end hard drive output
+2.60738 - Process 2: start hard drive output on HDD0
+3.50751 - Process 2: end hard drive output
+3.50752 - OS: removing process 2
+3.50754 - Simulator program starting ending 
+
+0.005467 - Simulator program starting
+0.00581 - OS: preparing process 3
+0.005841 - Process 3: start Processsing action
+0.605859 - Process 3: end Processsing action
+0.605895 - OS: removing process 3
+0.605976 - OS: preparing process 1
+0.605983 - Process 1: start Processsing action
+0.705987 - Process 1: end Processsing action
+0.706025 - Process 1: allocating memory
+0.806071 - Process 1: memory allocated at 0X00000000
+0.806084 - OS: removing process 1
+0.806141 - OS: preparing process 2
+0.806152 - Process 2: start hard drive output on HDD0
+1.70644 - Process 2: end hard drive output
+1.70648 - Process 2: start hard drive output on HDD1
+2.60662 - Process 2: end hard drive output
+2.60666 - Process 2: start hard drive output on HDD0
+3.50675 - Process 2: end hard drive output
+3.50677 - OS: removing process 2
+3.50679 - Simulator program starting ending 
+
+0.002089 - Simulator program starting
+0.002212 - OS: preparing process 2
+0.002224 - Process 2: start hard drive output on HDD0
+0.902962 - Process 2: end hard drive output
+0.903004 - OS: removing process 2
+0.903078 - OS: preparing process 1
+0.903086 - Process 1: start Processsing action
+1.00309 - Process 1: end Processsing action
+1.00313 - Process 1: allocating memory
+1.2032 - Process 1: memory allocated at 0X00000000
+1.20323 - OS: removing process 1
+1.20325 - Simulator program starting ending 
+
+0.006495 - Simulator program starting
+0.006963 - OS: preparing process 2
+0.007002 - Process 2: start hard drive output on HDD0
+0.907384 - Process 2: end hard drive output
+0.907427 - OS: removing process 2
+0.907497 - OS: preparing process 1
+0.907505 - Process 1: start Processsing action
+1.00751 - Process 1: end Processsing action
+1.00755 - Process 1: allocating memory
+1.20761 - Process 1: memory allocated at 0X00000000
+1.20764 - OS: removing process 1
+1.20769 - OS: preparing process 3
+1.2077 - Process 3: start Processsing action
+1.30771 - Process 3: end Processsing action
+1.30775 - Process 3: start keyboard Input
+1.18019 - Process 3: end keyboard Input
+2.38791 - Process 3: allocating memory
+2.48795 - Process 3: memory allocated at 0X00000080
+2.48797 - Process 3: start Processsing action
+2.58798 - Process 3: end Processsing action
+2.58799 - OS: removing process 3
+2.588 - Simulator program starting ending 
+
+0.008307 - Simulator program starting
+0.009432 - OS: preparing process 2
+0.009475 - Process 2: start hard drive output on HDD0
+0.909936 - Process 2: end hard drive output
+0.909975 - OS: removing process 2
+0.910044 - OS: preparing process 1
+0.910053 - Process 1: start Processsing action
+1.01006 - Process 1: end Processsing action
+1.0101 - Process 1: allocating memory
+1.21017 - Process 1: memory allocated at 0X00000000
+1.2102 - OS: removing process 1
+1.21026 - OS: preparing process 3
+1.21026 - Process 3: start Processsing action
+1.31028 - Process 3: end Processsing action
+1.31031 - Process 3: start keyboard Input
+1.1802 - Process 3: end keyboard Input
+2.39048 - Process 3: allocating memory
+2.49052 - Process 3: memory allocated at 0X00000080
+2.49055 - Process 3: start Processsing action
+2.59055 - Process 3: end Processsing action
+2.59056 - OS: removing process 3
+2.59057 - Simulator program starting ending 
+
+0.006368 - Simulator program starting
+0.0074 - OS: preparing process 3
+0.007455 - Process 3: start hard drive output on HDD0
+0.907856 - Process 3: end hard drive output
+0.907898 - OS: removing process 3
+0.90797 - OS: preparing process 2
+0.907979 - Process 2: start Processsing action
+1.00799 - Process 2: end Processsing action
+1.00802 - Process 2: allocating memory
+1.20809 - Process 2: memory allocated at 0X00000000
+1.20811 - OS: removing process 2
+1.20817 - OS: preparing process 1
+1.20818 - Process 1: start Processsing action
+1.30819 - Process 1: end Processsing action
+1.30823 - Process 1: start keyboard Input
+1.18021 - Process 1: end keyboard Input
+2.38841 - Process 1: allocating memory
+2.48845 - Process 1: memory allocated at 0X00000080
+2.48848 - Process 1: start Processsing action
+2.58848 - Process 1: end Processsing action
+2.58849 - OS: removing process 1
+2.58856 - OS: preparing process 4
+2.58856 - Process 4: start Processsing action
+2.68857 - Process 4: end Processsing action
+2.68861 - Process 4: start keyboard Input
+1.1802 - Process 4: end keyboard Input
+3.76879 - Process 4: allocating memory
+3.86882 - Process 4: memory allocated at 0X00000100
+3.86883 - Process 4: start Processsing action
+3.96884 - Process 4: end Processsing action
+3.96885 - OS: removing process 4
+3.96887 - Simulator program starting ending 
+
+0.006399 - Simulator program starting
+0.006944 - OS: preparing process 3
+0.006995 - Process 3: start hard drive output on HDD0
+0.907381 - Process 3: end hard drive output
+0.907421 - OS: removing process 3
+0.907465 - OS: preparing process 2
+0.907471 - Process 2: start Processsing action
+1.00747 - Process 2: end Processsing action
+1.00749 - Process 2: allocating memory
+1.20754 - Process 2: memory allocated at 0X00000000
+1.20757 - OS: removing process 2
+1.2076 - OS: preparing process 1
+1.20761 - Process 1: start Processsing action
+1.30761 - Process 1: end Processsing action
+1.30763 - Process 1: start keyboard Input
+1.18016 - Process 1: end keyboard Input
+2.38779 - Process 1: allocating memory
+2.48783 - Process 1: memory allocated at 0X00000080
+2.48785 - Process 1: start Processsing action
+2.58787 - Process 1: end Processsing action
+2.58788 - OS: removing process 1
+2.58792 - OS: preparing process 4
+2.58792 - Process 4: start Processsing action
+2.68792 - Process 4: end Processsing action
+2.68793 - Process 4: start keyboard Input
+1.18016 - Process 4: end keyboard Input
+3.76812 - Process 4: allocating memory
+3.86816 - Process 4: memory allocated at 0X00000100
+3.86818 - Process 4: start Processsing action
+3.96819 - Process 4: end Processsing action
+3.96823 - OS: removing process 4
+3.96825 - Simulator program starting ending 
+
+0.006587 - Simulator program starting
+0.007142 - OS: preparing process 3
+0.007191 - Process 3: start hard drive output on HDD0
+0.907608 - Process 3: end hard drive output
+0.907648 - OS: removing process 3
+0.907695 - OS: preparing process 2
+0.907699 - Process 2: start Processsing action
+1.0077 - Process 2: end Processsing action
+1.00771 - Process 2: allocating memory
+1.20777 - Process 2: memory allocated at 0X00000000
+1.2078 - OS: removing process 2
+1.20783 - OS: preparing process 1
+1.20783 - Process 1: start Processsing action
+1.30784 - Process 1: end Processsing action
+1.30785 - Process 1: start keyboard Input
+1.18017 - Process 1: end keyboard Input
+2.38802 - Process 1: allocating memory
+2.48806 - Process 1: memory allocated at 0X00000080
+2.48809 - Process 1: start Processsing action
+2.58809 - Process 1: end Processsing action
+2.5881 - OS: removing process 1
+2.58814 - OS: preparing process 4
+2.58814 - Process 4: start Processsing action
+2.68814 - Process 4: end Processsing action
+2.68816 - Process 4: start keyboard Input
+1.18016 - Process 4: end keyboard Input
+3.76833 - Process 4: allocating memory
+3.86837 - Process 4: memory allocated at 0X00000100
+3.86838 - Process 4: start Processsing action
+3.96838 - Process 4: end Processsing action
+3.96839 - OS: removing process 4
+3.96841 - Simulator program starting ending 
+
+0.006268 - Simulator program starting
+0.006801 - OS: preparing process 2
+0.006852 - Process 2: start Processsing action
+0.606886 - Process 2: end Processsing action
+0.606923 - Process 2: allocating memory
+0.706968 - Process 2: memory allocated at 0X00000000
+0.706976 - OS: removing process 2
+0.707009 - OS: preparing process 3
+0.707016 - Process 3: start hard drive output on HDD0
+1.60731 - Process 3: end hard drive output
+1.60735 - Process 3: start hard drive output on HDD1
+2.50748 - Process 3: end hard drive output
+2.50753 - OS: removing process 3
+2.50759 - OS: preparing process 1
+2.5076 - Process 1: start Processsing action
+2.60761 - Process 1: end Processsing action
+2.60764 - Process 1: start keyboard Input
+1.18022 - Process 1: end keyboard Input
+3.68785 - Process 1: allocating memory
+3.78788 - Process 1: memory allocated at 0X00000080
+3.7879 - Process 1: start Processsing action
+3.8879 - Process 1: end Processsing action
+3.88791 - OS: removing process 1
+3.88795 - OS: preparing process 4
+3.88795 - Process 4: start Processsing action
+3.98796 - Process 4: end Processsing action
+3.98797 - Process 4: start keyboard Input
+1.18015 - Process 4: end keyboard Input
+5.06814 - Process 4: allocating memory
+5.16817 - Process 4: memory allocated at 0X00000100
+5.16818 - Process 4: start hard drive output on HDD0
+6.06829 - Process 4: end hard drive output
+6.06834 - Process 4: start hard drive output on HDD1
+6.96847 - Process 4: end hard drive output
+6.9685 - Process 4: start Processsing action
+7.06851 - Process 4: end Processsing action
+7.06852 - OS: removing process 4
+7.06854 - Simulator program starting ending 
+
+0.00645 - Simulator program starting
+0.007001 - OS: preparing process 4
+0.00704 - Process 4: start Processsing action
+0.607062 - Process 4: end Processsing action
+0.607113 - Process 4: start keyboard Input
+1.68044 - Process 4: end keyboard Input
+1.68747 - Process 4: allocating memory
+1.78751 - Process 4: memory allocated at 0X00000000
+1.78752 - Process 4: start hard drive output on HDD0
+2.68765 - Process 4: end hard drive output
+2.6877 - Process 4: start hard drive output on HDD1
+3.58778 - Process 4: end hard drive output
+3.5878 - Process 4: start Processsing action
+3.68781 - Process 4: end Processsing action
+3.68784 - OS: removing process 4
+3.68789 - OS: preparing process 3
+3.6879 - Process 3: start hard drive output on HDD0
+4.58807 - Process 3: end hard drive output
+4.58809 - Process 3: start hard drive output on HDD1
+5.48819 - Process 3: end hard drive output
+5.48823 - OS: removing process 3
+5.48829 - OS: preparing process 1
+5.4883 - Process 1: start Processsing action
+5.5883 - Process 1: end Processsing action
+5.58834 - Process 1: start keyboard Input
+1.1802 - Process 1: end keyboard Input
+6.66852 - Process 1: allocating memory
+6.76855 - Process 1: memory allocated at 0X00000080
+6.76856 - Process 1: start Processsing action
+6.86856 - Process 1: end Processsing action
+6.86857 - OS: removing process 1
+6.8686 - OS: preparing process 2
+6.8686 - Process 2: start Processsing action
+6.96861 - Process 2: end Processsing action
+6.96863 - Process 2: allocating memory
+7.06864 - Process 2: memory allocated at 0X00000100
+7.06865 - OS: removing process 2
+7.06866 - Simulator program starting ending 
+
+0.006517 - Simulator program starting
+0.006768 - OS: preparing process 1
+0.006802 - Process 1: start Processsing action
+0.606826 - Process 1: end Processsing action
+0.606874 - Process 1: start keyboard Input
+1.68042 - Process 1: end keyboard Input
+1.68722 - Process 1: allocating memory
+1.78727 - Process 1: memory allocated at 0X00000000
+1.78728 - Process 1: start Processsing action
+1.88729 - Process 1: end Processsing action
+1.8873 - OS: removing process 1
+1.88733 - OS: preparing process 2
+1.88734 - Process 2: start Processsing action
+1.98734 - Process 2: end Processsing action
+1.98735 - Process 2: allocating memory
+2.08737 - Process 2: memory allocated at 0X00000080
+2.08738 - OS: removing process 2
+2.0874 - OS: preparing process 3
+2.0874 - Process 3: start hard drive output on HDD0
+2.98754 - Process 3: end hard drive output
+2.98758 - Process 3: start hard drive output on HDD1
+3.8877 - Process 3: end hard drive output
+3.88774 - OS: removing process 3
+3.88779 - OS: preparing process 4
+3.88779 - Process 4: start Processsing action
+3.9878 - Process 4: end Processsing action
+3.98781 - Process 4: start keyboard Input
+1.18015 - Process 4: end keyboard Input
+5.06798 - Process 4: allocating memory
+5.16801 - Process 4: memory allocated at 0X00000100
+5.16802 - Process 4: start hard drive output on HDD0
+6.06814 - Process 4: end hard drive output
+6.06818 - Process 4: start hard drive output on HDD1
+6.96827 - Process 4: end hard drive output
+6.96828 - Process 4: start Processsing action
+7.06829 - Process 4: end Processsing action
+7.0683 - OS: removing process 4
+7.06832 - Simulator program starting ending 
+
+0.006365 - Simulator program starting
+0.006613 - OS: preparing process 1
+0.00665 - Process 1: start Processsing action
+0.636674 - Process 1: end Processsing action
+0.636718 - Process 1: start keyboard Input
+1.7104 - Process 1: end keyboard Input
+1.71704 - Process 1: allocating memory
+1.80709 - Process 1: memory allocated at 0X00000000
+1.8071 - Process 1: start Processsing action
+1.8971 - Process 1: end Processsing action
+1.89711 - OS: removing process 1
+1.89714 - OS: preparing process 2
+1.89714 - Process 2: start Processsing action
+1.98715 - Process 2: end Processsing action
+1.98716 - Process 2: allocating memory
+2.07717 - Process 2: memory allocated at 0X00000080
+2.07717 - OS: removing process 2
+2.07719 - OS: preparing process 3
+2.07719 - Process 3: start hard drive output on HDD0
+2.97733 - Process 3: end hard drive output
+2.97738 - Process 3: start hard drive output on HDD1
+3.8775 - Process 3: end hard drive output
+3.87754 - OS: removing process 3
+3.87759 - OS: preparing process 4
+3.87759 - Process 4: start Processsing action
+3.9676 - Process 4: end Processsing action
+3.96762 - Process 4: start keyboard Input
+1.17015 - Process 4: end keyboard Input
+5.04778 - Process 4: allocating memory
+5.13781 - Process 4: memory allocated at 0X00000100
+5.13782 - Process 4: start hard drive output on HDD0
+6.03795 - Process 4: end hard drive output
+6.03799 - Process 4: start hard drive output on HDD1
+6.93809 - Process 4: end hard drive output
+6.93811 - Process 4: start Processsing action
+7.02812 - Process 4: end Processsing action
+7.02813 - OS: removing process 4
+7.02815 - Simulator program starting ending 
+
+0.006454 - Simulator program starting
+0.006699 - OS: preparing process 1
+0.006738 - Process 1: start Processsing action
+0.606764 - Process 1: end Processsing action
+0.606812 - Process 1: start keyboard Input
+1.68043 - Process 1: end keyboard Input
+1.68716 - Process 1: allocating memory
+1.7472 - Process 1: memory allocated at 0X00000000
+1.74721 - Process 1: start Processsing action
+1.80722 - Process 1: end Processsing action
+1.80722 - OS: removing process 1
+1.80726 - OS: preparing process 2
+1.80726 - Process 2: start Processsing action
+1.86727 - Process 2: end Processsing action
+1.86728 - Process 2: allocating memory
+1.92729 - Process 2: memory allocated at 0X00000080
+1.92729 - OS: removing process 2
+1.92731 - OS: preparing process 3
+1.92731 - Process 3: start hard drive output on HDD0
+2.82744 - Process 3: end hard drive output
+2.82748 - Process 3: start hard drive output on HDD1
+3.72761 - Process 3: end hard drive output
+3.72765 - OS: removing process 3
+3.72769 - OS: preparing process 4
+3.7277 - Process 4: start Processsing action
+3.78771 - Process 4: end Processsing action
+3.78772 - Process 4: start keyboard Input
+1.14015 - Process 4: end keyboard Input
+4.86788 - Process 4: allocating memory
+4.92792 - Process 4: memory allocated at 0X00000100
+4.92793 - Process 4: start hard drive output on HDD0
+5.82802 - Process 4: end hard drive output
+5.82803 - Process 4: start hard drive output on HDD1
+6.72813 - Process 4: end hard drive output
+6.72819 - Process 4: start Processsing action
+6.7882 - Process 4: end Processsing action
+6.7882 - OS: removing process 4
+6.78822 - Simulator program starting ending 
+
+0.007737 - Simulator program starting
+0.008227 - OS: preparing process 4
+0.008269 - Process 4: start Processsing action
+0.608294 - Process 4: end Processsing action
+0.60834 - Process 4: start keyboard Input
+1.68042 - Process 4: end keyboard Input
+1.68867 - Process 4: allocating memory
+1.74872 - Process 4: memory allocated at 0X00000000
+1.74873 - Process 4: start hard drive output on HDD0
+2.64885 - Process 4: end hard drive output
+2.6489 - Process 4: start hard drive output on HDD1
+3.54899 - Process 4: end hard drive output
+3.54901 - Process 4: start Processsing action
+3.60902 - Process 4: end Processsing action
+3.60906 - OS: removing process 4
+3.60911 - OS: preparing process 3
+3.60912 - Process 3: start hard drive output on HDD0
+4.50924 - Process 3: end hard drive output
+4.50926 - Process 3: start hard drive output on HDD1
+5.40937 - Process 3: end hard drive output
+5.40941 - OS: removing process 3
+5.40945 - OS: preparing process 1
+5.40946 - Process 1: start Processsing action
+5.46946 - Process 1: end Processsing action
+5.4695 - Process 1: start keyboard Input
+1.14018 - Process 1: end keyboard Input
+6.54968 - Process 1: allocating memory
+6.60971 - Process 1: memory allocated at 0X00000080
+6.60972 - Process 1: start Processsing action
+6.66972 - Process 1: end Processsing action
+6.66973 - OS: removing process 1
+6.66976 - OS: preparing process 2
+6.66977 - Process 2: start Processsing action
+6.72977 - Process 2: end Processsing action
+6.72978 - Process 2: allocating memory
+6.78979 - Process 2: memory allocated at 0X00000100
+6.78979 - OS: removing process 2
+6.7898 - Simulator program starting ending 
+
+0.006545 - Simulator program starting
+0.007121 - OS: preparing process 2
+0.007162 - Process 2: start Processsing action
+0.607189 - Process 2: end Processsing action
+0.607225 - Process 2: allocating memory
+0.667268 - Process 2: memory allocated at 0X00000000
+0.66728 - OS: removing process 2
+0.667312 - OS: preparing process 3
+0.667319 - Process 3: start hard drive output on HDD0
+1.56761 - Process 3: end hard drive output
+1.56765 - Process 3: start hard drive output on HDD1
+2.46779 - Process 3: end hard drive output
+2.46784 - OS: removing process 3
+2.46787 - OS: preparing process 1
+2.46788 - Process 1: start Processsing action
+2.52788 - Process 1: end Processsing action
+2.5279 - Process 1: start keyboard Input
+1.14021 - Process 1: end keyboard Input
+3.60813 - Process 1: allocating memory
+3.66816 - Process 1: memory allocated at 0X00000080
+3.66817 - Process 1: start Processsing action
+3.72817 - Process 1: end Processsing action
+3.72818 - OS: removing process 1
+3.72821 - OS: preparing process 4
+3.72822 - Process 4: start Processsing action
+3.78823 - Process 4: end Processsing action
+3.78823 - Process 4: start keyboard Input
+1.14013 - Process 4: end keyboard Input
+4.86839 - Process 4: allocating memory
+4.92842 - Process 4: memory allocated at 0X00000100
+4.92843 - Process 4: start hard drive output on HDD0
+5.82854 - Process 4: end hard drive output
+5.82856 - Process 4: start hard drive output on HDD1
+6.72867 - Process 4: end hard drive output
+6.72871 - Process 4: start Processsing action
+6.78872 - Process 4: end Processsing action
+6.78873 - OS: removing process 4
+6.78875 - Simulator program starting ending 
+
+0.007056 - Simulator program starting
+0.007257 - OS: preparing process 2
+0.007283 - Process 2: start hard drive output on HDD0
+0.907626 - Process 2: end hard drive output
+0.907665 - OS: removing process 2
+0.907716 - OS: preparing process 1
+0.907724 - Process 1: start Processsing action
+0.967731 - Process 1: end Processsing action
+0.96774 - Process 1: allocating memory
+1.2078 - Process 1: memory allocated at 0X00000000
+1.20783 - OS: removing process 1
+1.20785 - Simulator program starting ending 
+
+0.005525 - Simulator program starting
+0.005685 - OS: preparing process 2
+0.005702 - Process 2: start hard drive output on HDD0
+0.905951 - Process 2: end hard drive output
+0.905992 - OS: removing process 2
+0.906037 - OS: preparing process 1
+0.906042 - Process 1: start Processsing action
+0.966046 - Process 1: end Processsing action
+0.966086 - Process 1: allocating memory
+1.20615 - Process 1: memory allocated at 0X00000000
+1.20618 - OS: removing process 1
+1.20621 - OS: preparing process 3
+1.20621 - Process 3: start Processsing action
+1.26622 - Process 3: end Processsing action
+1.26626 - Process 3: start keyboard Input
+1.14022 - Process 3: end keyboard Input
+2.34647 - Process 3: allocating memory
+2.40653 - Process 3: memory allocated at 0X00000080
+2.40657 - Process 3: start Processsing action
+2.46658 - Process 3: end Processsing action
+2.46659 - OS: removing process 3
+2.4666 - Simulator program starting ending 
+
+0.006069 - Simulator program starting
+0.006534 - OS: preparing process 2
+0.006602 - Process 2: start hard drive output on HDD0
+0.906983 - Process 2: end hard drive output
+0.907023 - OS: removing process 2
+0.907071 - OS: preparing process 1
+0.907075 - Process 1: start Processsing action
+0.967079 - Process 1: end Processsing action
+0.96709 - Process 1: allocating memory
+1.20715 - Process 1: memory allocated at 0X00000000
+1.20718 - OS: removing process 1
+1.20721 - OS: preparing process 3
+1.20722 - Process 3: start Processsing action
+1.26723 - Process 3: end Processsing action
+1.26727 - Process 3: start keyboard Input
+1.14021 - Process 3: end keyboard Input
+2.34747 - Process 3: allocating memory
+2.40751 - Process 3: memory allocated at 0X00000080
+2.40754 - Process 3: start Processsing action
+2.46754 - Process 3: end Processsing action
+2.46756 - OS: removing process 3
+2.46757 - Simulator program starting ending 
+

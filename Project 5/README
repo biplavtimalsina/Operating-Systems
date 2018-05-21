@@ -1,0 +1,12 @@
+STR:
+This code sort the process in increasing order of number of tasks remaining, at any given time.
+
+RR:
+Time quantum is 50 ms.It also shows and extra output in the file, (all files loaded, after all 10 files are loaded, which should be done by around 1.1 sec. This display was just for your reference to see that the files are being loaded at appropriate times.
+Note, the output is logged with interrupted messages approximately at 50  ms.  
+
+Output:
+The output as been saved in Output folder for your reference.
+
+
+

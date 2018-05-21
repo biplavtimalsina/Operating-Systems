@@ -1,0 +1,175 @@
+ if(quantumChange==true && isRR==1 && isTaskInterrupted==true)
+              {
+                //cout<<"Quantum change:"<<endl;
+                queue<Task> veryTempTaskQueue;
+                //if global time to completion<0, then task is completed and also interrupted
+                if(globalTimeToCompletion<=0)
+                { 
+                  //cout<<"here"<<endl;
+                  myTaskqueue.pop();
+
+                }  
+                //if   "  "  "  "   " " " " " >0, then task is not completed but interrupted
+                if(globalTimeToCompletion>0)
+                {
+                  //cout<<"there"<<endl;
+                  Task tempT=myTaskqueue.front();
+                  tempT.setToCompletion(globalTimeToCompletion);
+                   veryTempTaskQueue.push(tempT);
+                   myTaskqueue.pop();
+                  while(!myTaskqueue.empty())
+                  {
+                    tempT=myTaskqueue.front();
+                    veryTempTaskQueue.push(tempT);
+                    myTaskqueue.pop();
+                  }
+                }
+                while(!myTaskqueue.empty())
+                {
+                  Task px=myTaskqueue.front();
+                  veryTempTaskQueue.push(px);
+                  myTaskqueue.pop();
+                }
+
+                myTaskqueue=veryTempTaskQueue;
+                //  queue<Task> temp=myTaskqueue;
+                // logStream<<"TempQueue tasks: ";
+                /*
+                  cout<<"____________________________________________"<<endl;
+                  while(!veryTempTaskQueue.empty())
+                  { 
+                    cout<<veryTempTaskQueue.front().getName()<< " ";
+                    veryTempTaskQueue.pop();
+                  }
+                  cout<<endl<<"____________________________________________"<<endl;
+                */
+                veryTempTaskQueue=queue<Task>();
+                //cout<<"myTaskQueue: size= "<<myTaskqueue.size()<<endl;
+                P.setProcessqueue(myTaskqueue);
+                //Adjustment: since p is just a copy of the front process, we need to put this changed p process in the queue
+                //  Process tempPr=myProcessQueue.front();
+                //cout<<"Temp-PR size="<<tempPr.getTaskQueue().size()<<endl;
+                myProcessQueue.push(P);
+                myProcessQueue.pop();
+                quantumChange=false;
+                //logStream<<(double)clock() / toSeconds<<"1 GLobal Time Completion: "<<endl;
+                /*
+                  cout<<"*****"<<endl;
+                  queue<Process> veryTempProcessQueue;
+                  veryTempProcessQueue=myProcessQueue;
+                  while(!veryTempProcessQueue.empty())
+                  { 
+                    //Process tempx=veryTempTaskQueue.
+                    cout<<veryTempProcessQueue.front().getTaskQueue().size()<< " ";
+                    veryTempProcessQueue.pop();
+                  }
+                  cout<<endl<<"*****"<<endl;
+                */
+              }
+              else if(newProcessLoaded==true )
+              {
+                if(isTaskInterrupted==true)
+                {
+                  queue<Process>veryTempProcessQueue;
+                  cout<<"here"<<endl;
+                  //Task and process is interrupted
+                  //update time to COmpletion of the interrupted task
+                  queue<Task> veryTempTaskQueue;
+                  Task tempT=myTaskqueue.front();
+                  //logStream<<"GLoabl Time Completion: "<<globalTimeToCompletion<<endl;
+                  if(globalTimeToCompletion<=0)
+                  {
+                    cout<<"inside"<<endl;
+
+                    myTaskqueue.pop();
+                    cout<<"inside"<<endl;
+                  }  
+                  else //if   "  "  "  "   " " " " " >0, then task is not completed but interrupted
+                  {
+
+                    Task tempT=myTaskqueue.front();
+                    tempT.setToCompletion(globalTimeToCompletion);
+                    veryTempTaskQueue.push(tempT);
+                    myTaskqueue.pop();
+                    while(!myTaskqueue.empty())
+                    {
+                      tempT=myTaskqueue.front();
+                      veryTempTaskQueue.push(tempT);
+                      myTaskqueue.pop();
+                    }
+                  }
+
+
+                  cout<<"far"<<endl;
+                  //myTaskqueue=veryTempTaskQueue;
+                  cout<<"far**"<<endl;
+                  //veryTempTaskQueue=queue<Task>();
+                  //              logStream<<"GLobal Time Completion: "<<globalTimeToCompletion<<endl;
+                  //assign the changed taskqueue to the process queue
+                  P.setProcessqueue(veryTempTaskQueue);
+                  cout<<"veryTemp size="<< veryTempTaskQueue.size()<<endl;
+                  while(!veryTempTaskQueue.empty())
+                  {
+                    Task t=veryTempTaskQueue.front();
+                    cout<<" "<< t.getName();
+                  }
+                  cout<<"far"<<endl;
+                  //Adjustment: since p is just a copy of the front process, we need to put this changed p process in the queue
+                  //queue<Process> veryTempProcessQueue;
+                  veryTempProcessQueue.push(P);
+                  myProcessQueue.pop();
+                  cout<<"far"<<endl;
+                  while(!myProcessQueue.empty())
+                  {
+                    Process px=myProcessQueue.front();
+                    veryTempProcessQueue.push(px);
+                    myProcessQueue.pop();
+                  }
+                  myProcessQueue=veryTempProcessQueue;
+                  veryTempProcessQueue=queue<Process>();
+                  /*   queue<Task> temp=myTaskqueue;
+                    // logStream<<"TempQueue tasks: ";
+                    for(int i=0;i<temp.size();i++)
+                    { 
+                      //logStream<<temp.front().getName()<<"  ";
+                      temp.pop();
+                    }
+                  */ //logStream<<endl<<"INterrupt: myTaskqueue size= "<<myTaskqueue.size()<<endl;
+                  P.setInterrupted(true);
+                  cout<<"*"<<endl;
+                }
+
+                
+                //add the reload queue at the end of my myprocessqueue and then sort them
+                while(!reloadProcessQueue.empty())
+                {
+                  Process x=reloadProcessQueue.front();
+                  myProcessQueue.push(x);
+                  reloadProcessQueue.pop();
+                }
+                //sort again according to scheduling algorithm
+  
+                  //  if(Configfiledata.getScheduling()<=4)
+                   sort(Configfiledata);
+                  /* else
+                  {
+                  //it is RR,just put the first process at last
+                  Process tempPr=myProcessQueue.front();
+                  myProcessQueue.push(tempPr);
+                  myProcessQueue.pop();
+                  quantumChange=false;
+                 }*/
+                 newProcessLoaded=false;
+               //  logStream<<(double)clock() / toSeconds <<" - New Process added and Sorted"<<endl;  
+              }
+              
+
+              else//if(quantumChange!=true && newProcessLoaded!=true)
+              {
+                myProcessQueue.pop();   
+              }
+             
+              sem_post(&booleanVariables);
+               
+        }
+
