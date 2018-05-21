@@ -1,0 +1,16 @@
+Configuration file supplied: Config1.conf
+output received: logfile.lgf
+
+
+Another trial was performed by taking metadata1.mdf as metadata file, which has to be replaced in Config1.conf file.
+
+We can run this program by simple giving make command in Shell and passing configuration file as argument.
+
+For eg:
+make 
+./Assignment1 Config1.conf
+
+This will produce output in the same directory.
+Depending upon the logging input at Configuration file, it will generate output at Monitor and/or LogFile.
+
+
