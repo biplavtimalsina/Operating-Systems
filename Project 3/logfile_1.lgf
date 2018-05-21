@@ -1,0 +1,47 @@
+0.004634 - Simulator program starting
+0.004749 - OS: preparing process 1
+0.004766 - Process 1: start Processsing action
+0.604782 - Process 1: end Processsing action
+0.604828 - Process 1: allocating memory
+0.70489 - Process 1: memory allocated at 0X00000000
+0.704925 - Process 1: start Monitor output
+0.859239 - Process 1: end Monitor output
+0.859281 - Process 1: start hard drive Input on HDD 0
+2.05942 - Process 1: end hard drive Input
+2.05947 - Process 1: start projector output on PROJ 0
+13.0596 - Process 1: end projector output 
+13.0596 - Process 1: allocating memory
+13.1597 - Process 1: memory allocated at 0X00000080
+13.1597 - Process 1: start projector output on PROJ 1
+16.4598 - Process 1: end projector output 
+16.4599 - Process 1: allocating memory
+16.5599 - Process 1: memory allocated at 0X00000100
+16.56 - Process 1: start hard drive Input on HDD 1
+17.6101 - Process 1: end hard drive Input
+17.6102 - Process 1: start hard drive output on HDD0
+17.9103 - Process 1: end hard drive output
+17.9103 - Process 1: start hard drive output on HDD1
+20.3105 - Process 1: end hard drive output
+20.3105 - Process 1: allocating memory
+20.4106 - Process 1: memory allocated at 0X00000180
+20.4106 - Process 1: start Processsing action
+20.5106 - Process 1: end Processsing action
+20.5106 - Process 1: start projector output on PROJ 2
+22.7108 - Process 1: end projector output 
+22.7108 - Process 1: start memory blocking
+22.8108 - Process 1: end memory blocking
+22.8109 - Process 1: start keyboard Input
+23.8263 - Process 1: end keyboard Input
+23.8311 - Process 1: start memory blocking
+23.9311 - Process 1: end memory blocking
+23.9311 - Process 1: start Processsing action
+24.0311 - Process 1: end Processsing action
+24.0312 - Process 1: start Processsing action
+24.1312 - Process 1: end Processsing action
+24.1312 - Process 1: start hard drive output on HDD0
+25.0314 - Process 1: end hard drive output
+25.0314 - Process 1: start Processsing action
+25.1314 - Process 1: end Processsing action
+25.1315 - OS: removing process 1
+25.1315 - Simulator program starting ending 
+
